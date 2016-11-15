@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-This is going into my new repositor
+This is going into my new repository
 =======
 This is going into my new repository
 Making changes in Git Hub
